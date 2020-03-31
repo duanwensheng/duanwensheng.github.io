@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>English Study plan</title>
+      <link href="/2020/03/31/english-study/"/>
+      <url>/2020/03/31/english-study/</url>
+      
+        <content type="html"><![CDATA[<h1 id="英语学习规划笔记"><a href="#英语学习规划笔记" class="headerlink" title="英语学习规划笔记"></a>英语学习规划笔记</h1><p>英语是一项必备技能，必须得重视，坚持学习！</p><p>结合网上大佬门的经验，写个小笔记。</p><p><strong>Lesley’s 4P Theory</strong></p><ul><li><strong>Patience</strong> <em>量变到质变</em></li><li><strong>Practice</strong> <em>尽可能去运用</em></li><li><strong>Pattern</strong>  find your own pattern<em>找到自己的学习模式</em>，personalise个性素材库</li><li><strong>Passion</strong> find your passion</li></ul><h2 id="Listening"><a href="#Listening" class="headerlink" title="Listening"></a><strong>Listening</strong></h2><p><strong>泛听</strong>：利用零碎时间，听自己感兴趣的<br><strong>精听</strong>：选择生词少，有质量的文章，边听边跟读，十几遍后看原文，查生词，在继续听，直到滚瓜烂熟</p><ul><li>BBC广播，听电台在路上</li><li>英文电影，打印台本，反复看和跟读（听、说）</li></ul><h2 id="Speaking"><a href="#Speaking" class="headerlink" title="Speaking"></a><strong>Speaking</strong></h2><ul><li><p>最有效的练习办法是找个人来<strong>交流</strong></p></li><li><p>自己练习：</p><ul><li>自言自语：从简单的对话开始，再到稍微复杂一点的比如自己复述书籍电影   《On Writing Well by William Zinsser》^书^</li><li>影子跟读：<ol><li>Round Table China by CRI 中国国际广播电台。官网<a href="http://ezfm.cri.cn/schedule/detail?programId=173099" target="_blank" rel="noopener">http://ezfm.cri.cn/schedule/detail?programId=173099</a></li><li>Ted Talks 官网 <a href="https://www.ted.com/talks" target="_blank" rel="noopener">https://www.ted.com/talks</a></li><li>Ted Radio hour by NPR 官网<a href="https://www.npr.org/programs/ted-radio-hour/" target="_blank" rel="noopener">https://www.npr.org/programs/ted-radio-hour/</a></li></ol></li></ul></li><li><p><strong>纠正口音</strong>：Scientific American <a href="https://www.scientificamerican.com/" target="_blank" rel="noopener">https://www.scientificamerican.com/</a> 一遍一遍跟读音频</p></li></ul><h2 id="Reading"><a href="#Reading" class="headerlink" title="Reading"></a><strong>Reading</strong></h2><ul><li>外文网页、报纸</li><li>keep on reading Endlish book<ul><li>《The Road Less Traveled》（《少有人走的路》）</li><li>《How to Become a Straight-A Student》（《如何成为尖子生》）</li><li>《How to Win Friends and Influence People》（《人性的弱点：如何赢得朋友影响他人》）</li><li>《Procrastination》（《拖延心理学：向与生俱来的行为顽症宣战》）</li><li>《Intimate Relationships》（《亲密关系》）</li></ul></li></ul><h2 id="Writing"><a href="#Writing" class="headerlink" title="Writing"></a><strong>Writing</strong></h2><ul><li>每日单词计划X单词<ul><li>利用app，零散时间背单词</li><li>单词书：结合语境，多重复，利用艾宾浩斯记忆曲线，记完单词的一，三，五小时重复一遍，第二，三，五天继续重复</li></ul></li><li>准备一个笔记本（纸质，手机:)，记录你遇到的表达</li><li>keep a diary（output），用英文表达自己的状态(微博、微信)</li><li>翻译感兴趣的文章</li><li>多练习，反复写→改→写→改</li></ul><img src="/2020/03/31/english-study/22222.jpg">]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习规划 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CS学习路线规划</title>
+      <link href="/2020/03/31/cs-xue-xi-lu-xian/"/>
+      <url>/2020/03/31/cs-xue-xi-lu-xian/</url>
+      
+        <content type="html"><![CDATA[<h1 id="CS学习路线规划"><a href="#CS学习路线规划" class="headerlink" title="CS学习路线规划"></a>CS学习路线规划</h1><p>综合各方获取的经验与建议，先写下个大致的学习路线。</p><h2 id="编程语言学习篇"><a href="#编程语言学习篇" class="headerlink" title="编程语言学习篇"></a>编程语言学习篇</h2><blockquote><p>==Java&amp;Python== $\rightarrow$ C $\rightarrow$ C++</p></blockquote><p>以找工作为目的学习Java和Python(入门看视频)，以后需要再捡起C和C++。</p><h3 id="Java-重点"><a href="#Java-重点" class="headerlink" title="Java(重点)"></a>Java(重点)</h3><h4 id="基础知识"><a href="#基础知识" class="headerlink" title="基础知识"></a>基础知识</h4><ul><li>基本语法</li><li>基本网络知识：TCP/IP HTTP/HTTPS</li><li>基本的设计模式</li></ul><h4 id="工具方法"><a href="#工具方法" class="headerlink" title="工具方法"></a>工具方法</h4><ul><li>操作系统：Linux</li><li>代码管理：SVN/Git</li><li>持续集成（CI/CD）：jenkins</li><li>Java的项目管理工具：Maven/Gradle</li></ul><h4 id="框架方面"><a href="#框架方面" class="headerlink" title="框架方面"></a>框架方面</h4><h5 id="应用层框架"><a href="#应用层框架" class="headerlink" title="应用层框架"></a>应用层框架</h5><ul><li>ssm: spring springmvc mybatis</li><li>spring boot</li></ul><h5 id="各种中间件"><a href="#各种中间件" class="headerlink" title="各种中间件"></a>各种中间件</h5><ul><li>MQ 消息队列</li><li>RPC 通信框架：gRPC thrift dubbo springcloud</li><li>elasticsearch <em>数据库 搜素引擎</em></li></ul><h5 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h5><ul><li>SQL: MySQL/Postgre SQL</li><li>NoSQL:Redis/Memcached/mongodb/elasticsearch</li></ul><h4 id="架构方面"><a href="#架构方面" class="headerlink" title="架构方面"></a>架构方面</h4><h5 id="分布式-微服务架构"><a href="#分布式-微服务架构" class="headerlink" title="分布式/微服务架构"></a>分布式/微服务架构</h5><ul><li>spring cloud</li><li>dubbo</li><li>tpc通信</li></ul><h5 id="虚拟化-容器化技术"><a href="#虚拟化-容器化技术" class="headerlink" title="虚拟化/容器化技术"></a>虚拟化/容器化技术</h5><ul><li>Docker容器化</li><li>k8s  kubernetes（集群管理）</li></ul><h4 id="关注源码-性能"><a href="#关注源码-性能" class="headerlink" title="关注源码/性能"></a>关注源码/性能</h4><ul><li>JDK源码以及部分设计思想</li><li>Spring源码</li><li>JVM细节与排错</li><li>高并发/高可用</li></ul><h2 id="算法与数据结构篇"><a href="#算法与数据结构篇" class="headerlink" title="算法与数据结构篇"></a>算法与数据结构篇</h2><blockquote><p>离散数学 $\rightarrow$ ==算法与数据结构== $\rightarrow$ 算法竞赛入门</p></blockquote><p>求职<em>重点</em>：刷LeetCodes</p><ul><li>数据结构：线性、树、图、网络</li><li>算法：贪心、DP、分治、搜索</li></ul><h2 id="计算机体系篇"><a href="#计算机体系篇" class="headerlink" title="计算机体系篇"></a>计算机体系篇</h2><blockquote><p>汇编 $\rightarrow$ ==计算机组成原理== $\rightarrow$ ==操作系统== $\rightarrow$ ==<strong>计算机网络</strong>== $\rightarrow$ ==数据库== $\rightarrow$ 编译原理</p></blockquote><h2 id="人工智能进阶篇"><a href="#人工智能进阶篇" class="headerlink" title="人工智能进阶篇"></a>人工智能进阶篇</h2><blockquote><p>大数据分析</p></blockquote><h2 id="书籍推荐"><a href="#书籍推荐" class="headerlink" title="书籍推荐"></a>书籍推荐</h2><ul><li><p>算法：<code>入门</code>《算法图解》、<code>入门</code>《Algorithms》by <a href="http://jeffe.cs.illinois.edu/" target="_blank" rel="noopener">Jeff Erickson</a>、《算法》 <em>第四版</em> <em>普林斯顿大学</em> 、《算法设计手册》、《算法导论》</p></li><li><p>数据结构：<code>入门</code>《大话数据结构》、《Python数据结构与算法分析》<em>第二版</em></p></li><li><p><strong>Java</strong>：</p><ul><li>《Java编程思想》（很全，必看）、《java并发编程实战》、《深入理解java虚拟机》、《函数式编程思维》</li><li>《tcp/ip详解》（必看）、《鸟哥的linux私房菜》</li><li>《spring mvc ＋mybatis开发从入门到项目实践》、《spring技术内幕》、《elasticsearch服务器开发》、《redis入门指南》</li></ul></li></ul><img src="/2020/03/31/cs-xue-xi-lu-xian/12.jpg">]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习规划 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>开篇词</title>
       <link href="/2020/03/25/kai-pian-ci/"/>
       <url>/2020/03/25/kai-pian-ci/</url>
